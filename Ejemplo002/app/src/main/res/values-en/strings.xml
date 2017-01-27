@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">IMC Check</string>
+    <string name="nombre">Person Name:</string>
+    <string name="peso">Weigth in Kg</string>
+    <string name="estatura">Heigth in Metros</string>
+    <string name="resultado">Personal Data</string>
+    <string name="mujer">Women</string>
+    <string name="hombre">Men</string>
+    <string name="ejercicio">Do you do exercise everiday</string>
+    <string name="boton1">Calculate</string>
+    <string name="boton2">Clear</string>
+    <string name="recomendacionBajo">The best way to add weight is to increase the consumption of complex carbohydrates (carbohydrates).
+                                    They are basically foods in integral form, as integral bread, oats, muesli and brown rice.</string>
+    <string name="recomendacionNormal">People whose BMI is between 20 and 25 possess an ideal weight, associated with a longer life,
+                                            lower serious illnesses, as well as being perceived as more physically attractive.</string>
+    <string name="recomendacionSobre">Body weight is controlled by the number of calories consumed and the amount of calories burned each day.
+                                        So, if you consume fewer calories than you burn, you will lose weight. You can do it by being
+                                        more physically active.</string>
+</resources>

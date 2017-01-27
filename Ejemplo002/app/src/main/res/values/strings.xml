@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Chequeo IMC</string>
+    <string name="nombre">Nombre de la Persona</string>
+    <string name="peso">Peso en Kg</string>
+    <string name="estatura">Estatura en Metros</string>
+    <string name="resultado">Datos de la Persona</string>
+    <string name="mujer">Mujer</string>
+    <string name="hombre">Hombre</string>
+    <string name="ejercicio">Reliza Ejercicio Diariamente</string>
+    <string name="boton1">Mostrar Datos de la Persona</string>
+    <string name="boton2">Limpiar</string>
+    <string name="recomendacionBajo">La mejor manera de añadir peso es aumentar el consumo de carbohidratos
+                                    complejos (carbohidratos). Son básicamente los alimentos en forma integral,
+                                    como pan integral, avena, muesli y arroz integral.</string>
+    <string name="recomendacionNormal">Las personas cuyo IMC esta entre 20 y 25 poseen un peso ideal, asociado
+                                    con una vida más larga, menor enfermedades graves, así como ser percibido
+                                    como mas atractivas físicamente.</string>
+    <string name="recomendacionSobre">El peso del cuerpo es controlado por el número de calorías que se consumen
+                                    y la cantidad de calorías que se queman cada día. Así que, si consumes menos
+                                    calorías de las que quemas, perderás peso. Lo puedes hacer por ser más activo
+                                    físicamente.</string>
+</resources>
