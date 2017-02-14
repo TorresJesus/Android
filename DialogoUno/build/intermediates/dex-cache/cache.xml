@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\DesarrolloApIII\Android\DialogoUno\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="F:\DesarrolloApIII\Android\DialogoUno\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_5c7abc847a3c405288bf0170154f30c90730f7e6.jar" />
+    </item>
+    <item
+        jar="C:\Users\TICLAB4\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="F:\DesarrolloApIII\Android\DialogoUno\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_1bccf884bf4f2d1f3e94487217bfc32e78394c0e.jar" />
+    </item>
+    <item
+        jar="F:\DesarrolloApIII\Android\DialogoUno\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="F:\DesarrolloApIII\Android\DialogoUno\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_21abdfde91b3d3aa031bcde46914a9dde10fbc71.jar" />
+    </item>
+    <item
+        jar="F:\DesarrolloApIII\Android\DialogoUno\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="F:\DesarrolloApIII\Android\DialogoUno\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_b7b6e332151af55de23cae8009ed3134287cf403.jar" />
+    </item>
+    <item
+        jar="F:\DesarrolloApIII\Android\DialogoUno\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="F:\DesarrolloApIII\Android\DialogoUno\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_6e56a4d62d16d5f7eaf0b91099e4234f492ce375.jar" />
+    </item>
+    <item
+        jar="F:\DesarrolloApIII\Android\DialogoUno\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="F:\DesarrolloApIII\Android\DialogoUno\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_6318e7951992313554f1b7a162057eeea0dca74d.jar" />
+    </item>
+
+</items>
