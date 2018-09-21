@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Aprendiendo Python</string>
+    <string name="temas">Temas</string>
+    <string name="activs">Actividades</string>
+    <string name="eval">Evaluaci\u00f3n</string>
+    <string name="progress">Progreso</string>
+    <string name="regresar">Regresar a principal</string>
+    <string name="tema_content">Python es un lenguaje alternativo a Java, permite la creaci\u00f3n de aplicaciones web con tiempos de respuesta reducidos</string>
+    <string name="activs_didact">Se presentan un conjunto de actividades de aprendizaje, que buscan inserntivar al usuario a entender mejor el lenguaje Python</string>
+    <string name="eval_usuario">Instrumentos que permiten evaluar el grado de comprensi\u00f3n del usuario de acuerdo a os temas</string>
+    <string name="progres_usuario">Se muestra el grado de avance de cada usuario de acuerdo a las actividades de aprendizaje</string>
+</resources>

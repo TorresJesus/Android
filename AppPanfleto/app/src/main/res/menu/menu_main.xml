@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/itmTemas"
+        android:title = "@string/temas"
+        ></item>
+    <item
+        android:id="@+id/itmActivs"
+        android:title = "@string/activs"
+        ></item>
+    <item
+        android:id="@+id/itmEval"
+        android:title = "@string/eval"
+        ></item>
+    <item
+        android:id="@+id/itmProgress"
+        android:title = "@string/progress"
+        ></item>
+
+</menu>
