@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="user">user</string>
+    <string name="pass">pass</string>
+    <string name="guardar">Guardar</string>
+    <string name="cargar">Cargar</string>
+    <string name="title_activity_consulta_preferencias">ConsultaPreferencias</string>
+    <string name="administrador">Bienvenido Administrador</string>
+    <string name="invitado">Bienvenido Invitado</string>
+    <string name="tipo">tipo</string>
+    <string name="volver">Volver</string>
+</resources>
